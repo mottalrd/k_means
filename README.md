@@ -32,6 +32,8 @@ Alternatively you can download the tar in the dist folder, extract it and instal
     $: python setup.py install
 
 
+Finally, check the experiments folder to see K means in action on the iris dataset in a Jupyter notebook.
+
 # Running the tests
 
     py.test
