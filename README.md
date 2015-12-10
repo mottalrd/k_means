@@ -27,7 +27,7 @@ You can now load your KMeans code in a console:
     [Cluster(center=[ 11.  11.], members=[array([10, 10]), array([11, 11]), array([12, 12])], converged=True), Cluster(center=[ 2.  2.], members=[array([1, 1]), array([2, 2]), array([3, 3])], converged=True)]
 
 
-Alternatively you have have a system-wide installation of the module with
+Alternatively you can download the tar in the dist folder, extract it and install it with
 
     $: python setup.py install
 
