@@ -23,7 +23,7 @@ You can now load your KMeans code in a console:
       [11, 11],  
       [12, 12]  
     ])  
-    >>> foo.KMeans(data, 2).fit()  
+    >>> k_means.KMeans(data, 2).fit()  
     [Cluster(center=[ 11.  11.], members=[array([10, 10]), array([11, 11]), array([12, 12])], converged=True), Cluster(center=[ 2.  2.], members=[array([1, 1]), array([2, 2]), array([3, 3])], converged=True)]
 
 
@@ -35,5 +35,4 @@ Alternatively you have have a system-wide installation of the module with
 # Running the tests
 
     py.test
-
 
