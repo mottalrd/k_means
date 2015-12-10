@@ -1,0 +1,11 @@
+MANIFEST.in
+requirements.txt
+setup.py
+lib/k_means.py
+lib/KMeans.egg-info/PKG-INFO
+lib/KMeans.egg-info/SOURCES.txt
+lib/KMeans.egg-info/dependency_links.txt
+lib/KMeans.egg-info/requires.txt
+lib/KMeans.egg-info/top_level.txt
+test/init_tests.py
+test/k_means_test.py
